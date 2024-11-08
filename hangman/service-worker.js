@@ -15,7 +15,8 @@ const assetsToCache = [
   '/images/lost.gif',
   '/images/victory.gif',
   '/icon/android-chrome-192x192.png',
-  '/icon/android-chrome-512x512.png',
+  '/icon/android-chrome-512x512.png'
+  
 
 ];
 
