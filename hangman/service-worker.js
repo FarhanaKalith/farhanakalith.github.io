@@ -1,21 +1,21 @@
 const cacheName = 'app-cache-v1';
 const assetsToCache = [
   
-  '/index.html',
-  '/style.css',
-  '/scripts/script.js',
-  '/scripts/word-list.js',
-  '/images/hangman-0.svg',
-  '/images/hangman-1.svg',
-  '/images/hangman-2.svg',
-  '/images/hangman-3.svg',
-  '/images/hangman-4.svg',
-  '/images/hangman-5.svg',
-  '/images/hangman-6.svg',
-  '/images/lost.gif',
-  '/images/victory.gif',
-  '/icon/android-chrome-192x192.png',
-  '/icon/android-chrome-512x512.png'
+  '/hangman/index.html',
+  '/hangman/style.css',
+  '/hangman/scripts/script.js',
+  '/hangman/scripts/word-list.js',
+  '/hangman/images/hangman-0.svg',
+  '/hangman/images/hangman-1.svg',
+  '/hangman/images/hangman-2.svg',
+  '/hangman/images/hangman-3.svg',
+  '/hangman/images/hangman-4.svg',
+  '/hangman/images/hangman-5.svg',
+  '/hangman/images/hangman-6.svg',
+  '/hangman/images/lost.gif',
+  '/hangman/images/victory.gif',
+  '/hangman/icon/android-chrome-192x192.png',
+  '/hangman/icon/android-chrome-512x512.png'
   
 
 ];
