@@ -7,6 +7,19 @@
     <link rel="stylesheet" href="style.css">
     <script src="scripts/word-list.js" defer></script>
     <script src="scripts/script.js" defer></script>
+    <link rel="manifest" href="/manifest.json">
+    <script>
+        if ('serviceWorker' in navigator) {
+          navigator.serviceWorker.register('/service-worker.js')
+            .then(registration => {
+              console.log('Service Worker registered with scope:', registration.scope);
+            })
+            .catch(error => {
+              console.log('Service Worker registration failed:', error);
+            });
+        }
+      </script>
+      
 </head>
 <body>
     <div class="game-model">
