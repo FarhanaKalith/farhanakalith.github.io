@@ -1,0 +1,22 @@
+{
+    "name": "Hangman",
+    "short_name": "App",
+    "description": "Hangman is a classic word-guessing game where players try to identify a hidden word by suggesting letters within a limited number of attempts. The game begins with a word or phrase concealed as blank spaces, each representing a letter. Players guess letters one at a time; correct guesses reveal the letter in its correct position, while incorrect guesses add a part to a "hangman" figure. If the figure is completed before the word is guessed, the game is lost. Hangman encourages vocabulary skills and strategic thinking, as players try to deduce the word while minimizing incorrect guesses.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "/icon/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/icon/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
