@@ -21,7 +21,7 @@
     "screenshots": [    
     {
       "src": "/hangman/screenshots/game1.PNG",
-      "sizes": "1361x612",
+      "sizes": "1365x620",
       "type": "image/PNG",
       "form_factor": "wide",
       "label": "Application1"
@@ -29,7 +29,7 @@
     {
 
       "src": "/hangman/screenshots/game2.PNG",
-       "sizes": "1365x620",
+       "sizes": "1361x612",
        "type": "image/PNG",
        "form_factor": "narrow",
        "label": "Application2"
