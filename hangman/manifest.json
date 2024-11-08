@@ -20,17 +20,17 @@
     ],
     "screenshots": [    
     {
-      "src": "/hangman/screenshots/game1.png",
+      "src": "/hangman/screenshots/game1.PNG",
       "sizes": "1920x1080",
-      "type": "image/png",
+      "type": "image/PNG",
       "form_factor": "wide",
       "label": "Application1"
     },
     {
 
-      "src": "/hangman/screenshots/game2.png",
+      "src": "/hangman/screenshots/game2.PNG",
        "sizes": "1920x1080",
-       "type": "image/png",
+       "type": "image/PNG",
        "form_factor": "narrow",
        "label": "Application2"
      }
