@@ -1,6 +1,6 @@
 const cacheName = 'app-cache-v1';
 const assetsToCache = [
-  '/',
+  
   '/index.html',
   '/style.css',
   '/scripts/script.js',
