@@ -17,11 +17,10 @@
         "sizes": "512x512",
         "type": "image/png"
       }
-    ]
+    ],
     "screenshots": [    
-   {
-
-     "src": "Screenshot_1.png",
+    {
+      "src": "game1.png",
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
@@ -29,12 +28,12 @@
     },
     {
 
-      "src": "Screenshot_2.png",
+      "src": "game2.png",
        "sizes": "1920x1080",
        "type": "image/png",
        "form_factor": "narrow",
        "label": "Application2"
      }
-    ],
+    ]
 }
   
